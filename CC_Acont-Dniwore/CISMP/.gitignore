@@ -1,0 +1,47 @@
+# Arquivos binarios
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip
+*.war
+*.ear
+*.sar
+*.class
+.metadata
+
+# Maven 
+target/
+
+# Arquivos de projetos do IntelliJ
+*.iml
+*.iws
+*.ipr
+.idea/
+
+# Arquivos de projetos do eclipse
+.settings/
+.classpath
+.project
+
+# Arquivos de projetos do NetBeans
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+nbactions.xml
+nb-configuration.xml
+
+
+# S.O.
+.DS_Store
+
+# Misc
+*.swp
+release.properties
+pom.xml.releaseBackup
+pom.xml.tag

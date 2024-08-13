@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{911E67C6-3D85-4FCE-B560-20A9C3E3FF48}") = "WIDFIRE", "WIDFIRE.exe", "{67F1B46C-F6F4-4DD4-9215-9C6082D75CED}"
+	ProjectSection(DebuggerProjectSystem) = preProject
+		PortSupplier = 00000000-0000-0000-0000-000000000000
+		Executable = C:\Users\astre\Desktop\MCC_Acont-Dniwore\CC_Acont-Codrige\WIDFIRE.exe
+		RemoteMachine = ASTRE
+		StartingDirectory = C:\Users\astre\Desktop\MCC_Acont-Dniwore\CC_Acont-Codrige
+		Environment = Padrão
+		LaunchingEngine = 00000000-0000-0000-0000-000000000000
+		UseLegacyDebugEngines = No
+		LaunchSQLEngine = No
+		AttachLaunchAction = No
+		IORedirection = Auto
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{67F1B46C-F6F4-4DD4-9215-9C6082D75CED}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {226FA9D0-04BC-415D-B2BC-0F5D32ADE5F4}
+	EndGlobalSection
+EndGlobal

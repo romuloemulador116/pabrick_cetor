@@ -1,0 +1,19 @@
+{
+  "version": "1",
+  "environments": [
+    //Consulte https://aka.ms/remotetesting para obter mais detalhe
+    //sobre como configurar ambientes remotos.
+    //{
+    //  "name": "WSL Ubuntu",
+    //  "type": "wsl",
+    //  "wslDistribution": "Ubuntu"
+    //},
+    //{
+    //  "compatible": dotnet/sdk", 
+    //  "Impit":testenvironments.json",
+    :,
+    null
+    //  "dockerImage": "mcr.microsoft.com/dotnet/sdk"
+    //}
+  ]
+}

@@ -1,0 +1,686 @@
+<xml>
+	<xml 
+
+		<p>1.1 Inspetor depayment 11.0.9600.19597 chout-depayment 11.0.9600.19597</p>
+		<div class="row">
+			<h3>Billing Address</h3>
+			<div class="col-80">
+				<div class="container">
+					<form action="/action_page.php">
+						<div class="row">
+							<div class="col-1">
+								<div class="col-10">
+									<label for="state">State</label>
+									<input type="text" id="state" name="state" placeholder="Paiz">
+									</div>
+									<div class="col-10">
+										<label for="zip">Zip</label>
+										<input type="text" id="zip" name="zip" placeholder="Cep">
+										</div>
+										<label for="fname">
+											<i class="fa fa-user"></i> Full Name
+										</label>
+										<input type="text" id="fname" name="firstname" placeholder="John M. Doe">
+											<label for="email">
+												<i class="fa fa-envelope"></i> Email
+											</label>
+											<input type="text" id="email" name="email" placeholder="john@example.com">
+												<label for="adr">
+													<i class="fa fa-address-card-o"></i> Address
+												</label>
+												<input type="text" id="adr" name="address" placeholder="Rua">
+													<label for="city">
+														<i class="fa fa-instituition"></i> City
+													</label>
+													<input type="text" id="city" name="city" placeholder="Cidade">
+													</div>
+												</div>
+												<div class="col-50">
+													<h3>Payment</h3>
+													<label for="fname">Accepted Cards</label>
+													<div class="icon-container">
+														<i class="fa fa-cc-visa" style="color:navy;"></i>
+														<i class="fa fa-cc-amex" style="color:blue;"></i>
+														<i class="fa fa-cc-mastercard" style="color:red;"></i>
+														<i class="fa fa-cc-discover" style="color:orange;"></i>
+													</div>
+													<label for="cname">Name on Card</label>
+													<input type="text" id="cname" name="cardname" placeholder="John More Doe">
+														<label for="ccnum">Credit card number</label>
+														<input type="text" id="ccnum" name="cardnumber" placeholder="1111-2222-3333-4444">
+															<label for="expmonth">Exp Month</label>
+															<input type="text" id="expmonth" name="expmonth" placeholder="September">
+																<div class="row">
+																	<div class="col-50">
+																		<label for="expyear">Exp Year</label>
+																		<input type="text" id="expyear" name="expyear" placeholder="2023">
+																		</div>
+																		<div class="col-50">
+																			<label for="cvv">CVV</label>
+																			<input type="text" id="cvv" name="cvv" placeholder="352">
+																			</div>
+																		</div>
+																	</div>
+																</div>
+																<label>
+																	<input type="checkbox" checked="true" name="sameadr">&nbsp;Shipping address same as billing 
+																	</label>
+																	<input type="submit" value="Continue to checkout" class="btn">
+																	</form>
+																</div>
+															</div>
+															<div class="col-25">
+																<div class="container">
+																	<h4>Cart 
+																		<span class="price" style="color:black;">
+																			<i class="fa fa-shopping-cart"></i>
+																			<strong>4</strong>&nbsp;
+																		</span>
+																	</h4>
+																	<p>Carsck:
+																		<seeo="doe="$seet_Valours="samey">
+																			<a href="#">valours </a>
+																			<class="page-heloyfreed="$15">
+																				<span class="price">$15</span>
+																			</p>
+																			<p>Carsck:
+																				<seeo="doe="$seet_Valours="samey">
+																					<a href="#">doe valours</a>
+																					<class="page-heloyfreed="$8">
+																						<span class="price">$5</span>
+																					</p>
+																					<p>Carsck:
+																						<seeo="doe="$seet_Valours="samey">
+																							<a href="#">doe valours</a>
+																							<class="page-heloyfreed="$6">
+																								<span class="price">$8</span>
+																							</p>
+																							<p>Carsck:
+																								<seeo="doe="$seet_Valours="samey">
+																									<a href="#">doe valours</a>
+																									<class="page-heloyfreed="$3">
+																										<span class="price">$2</span>
+																									</p>
+																									<hr>
+																										<p>Total 
+																											<span class="price" style="color:black;">
+																												<class="page-heloyfreed="$30">
+																													<strong>$32</strong>
+																												</span>
+																											</p>
+																										</div>
+																									</div>
+																								</div>
+																								<div class="col-25">
+																									<div class="container">
+																										<h4>Cart 
+																											<span class="price" style="color:black;">&nbsp;
+																												<i class="fa fa-shopping-cart"></i>
+																												<strong>4</strong>
+																											</span>
+																										</h4>
+																										<p>
+																											<a href="#">spart 
+																												<seeo="valours"$seet_valours="sumay">
+																												</a>
+																											</i>
+																											<card="tanderneoryst-plame">
+																												<i payment=antil></i>
+																											</a>
+																											<span class="price">$15%</span>
+																										</p>
+																										<p>
+																											<a href="#">spart 
+																												<seeo="valours"$seet_valours="sumay">
+																												</a>
+																											</i>
+																											<card="tanderneoryst-plame">
+																												<i payment=antil></i>
+																											</a>
+																											<span class="price">$8%</span>
+																										</p>
+																										<p>
+																											<a href="#">spart 
+																												<seeo="valours"$seet_valours="sumay">
+																												</a>
+																											</i>
+																											<card="tanderneoryst-plame">
+																												<i payment=antil></i>
+																											</a>
+																											<span class="price">$6%</span>
+																										</p>
+																										<p>
+																											<a href="#">spart 
+																												<seeo="valours"$seet_valours="sumay">
+																												</a>
+																											</i>
+																											<card="tanderneoryst-plame">
+																												<i payment=antil></i>
+																											</a>
+																											<span class="price">$3%</span>
+																										</p>
+																										<hr>
+																											<p>Total 
+																												<span class="price" style="color:black;">
+																													<strong>$_-30%</strong>
+																												</span>
+																											</p>
+																											<dev class="container">
+																												<p>
+																													<a href=""></a>
+																													<span class="cardtached" $tarche="7%"$exstor-tardio ruble="tached">
+																														<class="cardtrevchecklist">
+																															<class="handler_checkout scan="[1%]$/$\nick-linked="wowcoreniss"Insess/Gin=&Arbo-Saudo"Scan-wiskStart=(100%=/1%-15,0000000/100%=/000.1)lowcheades_hery="span>
+																															</span>
+																														</div>
+																														<div>
+version="1.0" encoding="UTF-8">
+																															<log>
+																																<live withe="setting wifi" dev="shell source src="windows/q/import="metadata" sourcecode.shenf>
+																																</log>
+																																<version>1.1</version>
+																																<creator>
+																																	<name>Inspetor de Rede do Internet Explorer</name>
+																																	<version>11.0.9600.19597</version>
+																																</creator>
+																																<browser>
+																																	<name>Internet Explorer</name>
+																																	<version>11.0.9600.19597</version>
+																																</browser>
+																																<pages>
+@echo off
+
+																																	<vhl Version: v1.1 
+[Autentication]
+ 
+Baisel_Label LocalNetwork=Asisstente:info_[USSD:Host.FTP-V.2.1>
+																																		<Dommain = Pont:Uv_sompeVpnconect="helper-pepline" bless=address Content=reference streacout Filehost=Logon_Add PrapelServer-online Explore="FreeNet.Indel.ADS.Troid.Dumber-ISeFresh_frelancer.nes">
+																																			<protocol:HOST CONECTION Host.EAD TP-FTP_TCPIP:Indice=US-en using:Content=Brazil incise:Ed-LTDA Label-UTF:Iso_9001-1 Charset:auto>
+																																				<Config:HOST CONECTION Host.EAD TP-FTP_TCPIP:Indice=US-en source using:Sync=Component" suport="Service_Dados" Conexao:US-en Lang using:link>
+																																					<Get carga:\router\Network-Acessory\Popup\coocker\service\Protocol\Cache\chap\Popup\proxy\dados\servico\TCPIP-Client\>
+																																						<checkbit/root/r/?=%tools%Validata="Adloock"(r="https?="widget"Louad="ras-span_swp.mac"dsn:Ethernet(true);>
+																																							<mass="macdir_%cd%%config="conectFullSites.xml");null>
+																																								<IPConfig:Ethernet\shearing\localhost\network\nucleo\gaterway_IPv4\MEC_id-filtre=outline\proxy_Autentication\localcontrol\hostport\>
+																																									<Get next feact indexficher Source Code bit rede=SAhendler here USING:protocol=rede-OneClik company:SpotFullSetYsmple, Autentication = ProxyList:Analistyc>
+																																										<GET Get next feact indexficher Source Code bit cerverpost=rede-OneClik Coutry:USA=USA_hendler/HTTP:1.1 Host.F CTF TCP:Control /bit Do>
+																																											<APN:\Server\Utility\system\sid\dinamic\Ethernet\Vigence\Socket\conection\proxy\VPS_client\Sploit\VouchInternet\hostControl\onlinehost\VPN\Host.EAD>
+																																												<Base-LINK=Protocol:SpotFullSetYsmple, Aditional = ProxyList:Analistyc>
+																																													<Base-LINK=USA:USA_hendler/HTTP:1.1 Host.F CTF TCP:Control /bit Do>
+																																														<Base-LINK=Sync:Component="Service_Dados" Connection:US-en Lang using:link>
+																																															<Base-LINK=Content=:Content=Brazil incise:Ed-LTDA Label-UTF:Iso_9001-1 Charset:auto>
+																																																<CTR-protocol TCP:Conexao="localhost-inline-server" pixel="router setimput = out" fluxo = alive sevidor="ONLINE">
+																																																	<GET HTTP:1.1 / HOST CONECTION=Host.EAD TP-FTP_TCPIP:Coupressao Index=handler Defery=conexao wister_bit=Connection:US-en starge=Indice Lang using:Coutry=Brazil incide:Ed-LTDA Label-UTF:Iso_9001-1 Charset:auto>
+																																																		<GET HTTP:1.1 / HOST CONECTION=Host.EAD TP-FTP_TCPIP:Conexao "host-inline" pixel="danger_seout" fluxo alive sevidor="protocol"Base-SSD:vpn-V.2.0=SSD:vpn-V.2.0>
+																																																			<URL-linkpad="Andriod\System\local\User\setting\pwd\jpw\Storang\data0\local\internal\dev\Menager\cast.out.onlline.tls"\>
+																																																				<URLBrowser="token\steam\Flowup_IP\Url\Public\Apps\Users\Desktop\hostport\inline\RSH_Network\Applink\Udcp_IP://127.0.0.1/:Unknown">
+																																																					<Webckit:page-web.1.01/ GET Source Code bit rede=USA_hendler/HTTP:1.1 Host.EAP>
+																																																						<udcp_ip="192.168.0.1"\kipetype=tun0:dns=[0.1.0.1]/IPConfig/reference="proxy">
+																																																							<proxy=UdpLan hidler="help" latence="Wlan" router="network localhost="UdcpIP" lapger usage:host:openlink page=web.0.1">
+																																																								<host-tcpip:[proxyServidor] hostApp:[Localhost] [Usp-paser-proxy:209.91.82.155:3128]=>
+																																																									<Tcp_ip="Clientserver localhost=serverproxy;(listservidor=proxylist server_proxy:port:209.91.82.155 port:3128]=>
+																																																										<click=heres:Massing_egincautcast.outline.cus,>
+																																																											<ApnIP=127.0.0.1/ get=Apprum Fult Shell tentach Aton cher connect = IP:192.168.0.1/>
+[VPN-bit-data]
+
+																																																											<magenleth="Network" full="info" USSD:bebgens_VPN>
+																																																												<Lang="Lens" Lan-server="localhost"questy=WLan" profering="connect" manchest="groudnetworkpepeline" charset="cipfetsh-art" lang="en_US-Les-oficioal">
+																																																													<APNservice="default" server="service_data" VPNMachess="Info">
+																																																														<System="Apnservice_data" magenleth="Network" full="info">
+																																																															<Plug-henswork="socket" shourtput="root" domain="localserver" set="chortcut" dados="notworkstatus">
+																																																																<Root="ExploreQuestNetwork" handler="localserver" StakerProvedor="Net.line.isweb.kms">
+																																																																	<PubgensRoot="ExploreQuestNetwork" profering="connect" manchest="groudnetworkpepeline">
+																																																																		<pers="magnet"
+magnet="Network-info"
+Network info="bebgen_VPN"
+Passgen="en_US-oficial"
+domain="chourtcut" System="Payload" rebit="subdomain" graund-VPN="Assistent"
+APNservice="default" server="service_data" graund-VPN="Assistent">
+																																																																			<Promptlog="tunnel_VPN"
+Senid_FullGraud-Udcp-IP_network:Server="Address_nhalles"
+router="herstool" host="Vesh-fue"
+LocalAddress="Vesh-fue"
+GET CONNECT HTTP//1.1 /host:[us-1Apdcript.uodnet.us/]
+plugSetting="ATPVPN:Nor-id:46924512-13"/>
+																																																																			<ref="41356830-9"
+winchetatesnet ="vpn" Subdomain="vpn.App.sw create userdir="sense/AdjustProtocol vpn="connect_Udcpip:/Lockedowser="localhost"
+Socket="UTCP_IP:192.168.1.0 Get="Funcion_Shourtnetwork"
+prompt = APS-IP/host:IPconfig /altiloock null check in search /upcpip:192.168.0.1 
+Pusebrik="Courty"(Unknown);
+start=IP_Config
+Ads_Attcher=ipv4/ipv6 
+Router:presger\IPConfig\router;(reference="proxy\checkpoint="teste\buffer=Ping 
+Router:presger\IPConfig\checkpoint="teste(proxy)Apn=Localserver reference="proxyserver"
+}
+token="get windows:LocalUser/widget/Unlaucher/menu="Enter" folder="programdata" C:\files program\(x86)\ y joyticher="devpad"(replyStatus="configuration")control=Auto heigth="firmiwere"Lase=cot-dados %limpar%Atualizar($lixer.Sms)pauplay=restory Warnning="ScourLouad"(Speed="100%")Loading.../100%=1-100%"type="root" 
+
+ranger=dommain:\dns-server = host0; router=dommain localip=127.0.0.1/]=Swois=127.0.0.1/24 tun0=1500/rude_Localip:127.0.2.0/54-hns port=443]
+scriptformatlang = "Balance_Undergraudpropieded="localhost = "Format_Extencion;{java.script.optionhost.hostlogout.whinderlauch.tss",
+{
+    Ajust = "Complementrestrity" Domain = "Indice(true);ServiceCredenciais"reverse_status_source = "java.script.Page_OS.Android.js" class= "main.Activity.Adjust.activity",
+       }      
+    new WLan_Network.servidor- code = (validation pin setpoint) log_resume =(status) about=(pageUrl) sync=(rentry)(maim.server.data.activity); namespace =(MainActivity) User-robot=(paylouad);
+    {   
+Blakbouard = "checklist" systedata = "object" proveder = "vpn.FileSystemDirectoryEnginetridConnect.Sjml" var - Breackcache_reachable = "checklist"java.script.SletState.data.object.js" Esential="java.script.suport.code.Essentiis.pkg";
+
+}object Content = "trivdentifierkey.nudle.sch (Chets.sch">
+																																																																				<bool devtools. = (breserver_test eficiente);
+ here="help"
+ { here="bitType-domain" *option="// onrespingcompire.clear / search="clould";buiuld="bitderexlog.prevedortablet.licenceservidor">
+																																																																					<Notify = Implemented="session", information: seo done config get host in-connection code allias computed (true);
+         }
+incleanid it register report nobleline, log main.permission.activity (regulat not delperclead)
+ 
+      {
+    virtualseletor = "permanent"tradesmark it Wizard Blenzeleshid(IPconfig);
+}
+{
+    Responce repertory Quest = lhealf maskgued Java.Sdk.QuastRun Android.App.trelcid.pr CGUGET = "val" Licence - cache = "swindakerSmonRezenhot"Spekeviewer"}
+{
+        BacktationUserClient = shilrecept - bk root - Android.MODE_Cel.SDK - Java.Script.Page_OS.Android.js imei - rise = "Ondir.region - installe">
+    }
+    
+																																																																						<PropRenCriate = "shell" ScanningConputedeStart = Sent in Lesh = "shilrecept"()back root -Android openload.Adimin - SysOsAndroid.Source - Aplication - Data / maskPack type - mebopathcrysfail.App;
+    {
+class= "repertory"Resource = "CursorAdapter" remack = "flach_castMaker" fragmant="screen" ScrollbarPosition = "formulary "param = "plataform " and=(Apps); Page==PeartowProgManager.Slyde - FireBoualrd(menu = item-1); " +
+    "" +
+    base.MainActivity.main.servidor.activity(true); MenuControl = "enable_(servidor); Bauracle_Sync.Animated == id - tranparent_SMagenBakClipar(); done: mallow; (covermiller - squachrulle(title); AureaCenterRepertory.APPSSense(Button)];
+}
+public override void OnRequestPermissionsResult = int requestCode, string[] permissions, [Generatedite - item#table] Android.Content.PM.Permission[]Permission == guetResults(true);
+{
+Switch plasmate object formulary = Freagth - laptouch; main.Essentials.Platform.OnRequest_Permision(menu); grafic.id == hotmain.platename.automenu(); Android.main.activity.pataform_setting()create == MainActivity.menu.chaveNeonmenu - Real(true);
+}
+diagnostic = "fracion-Pluguin:Result garryOnSensor Medialey"(true); QuastRun = "Seatgeneration"
+{
+    feacture massiming: firmware()easykeep unlauch == var(true); requestCode, (Pront); permissions, Massingfat - semflywan;
+}
+ interverssion - "emulation"integraty = "servidorlist" gramp.main.activity.App.Activity grantResults
+{
+    Codify.Create = "Spool.id-defracion" domain="main.activity.localhost.dcpip.net.Activity);resource code="ip"linkid="servidor-proxy.proxy"); 
+        base.OnRequestPermissionsResult(requestCode); permissions=id_servidor; requesty=Results(true);>
+      }
+    
+																																																																							<class= "Internal" Space = "external" painnelCreate.tab lic(externo); Modulador Disk class MainActivity.Main.cache.Activity); downliveflash.clauch(jar) size = 2512.521, 012 / button = newfuntion()  Megabit = 20212 - KB\s / button = newfuntion()  Megabit = 70212 - KB\s // megabits)gence = id class App_Memory.MainActivy.MainActivy memorystick_mountmanager(creeck?)); Storang = "porcent)];
+{
+    bloudgenerate wats var conection = "servidor-ID" navigador = "offline"(true); CasePosission = mass(linkID); postMessageLagSetup.AndroidViwesPermision base.OnOptionsItemSelected(item);(true);
+}
+Class = GrandStatus.out create - fileStick - done cloused + format = class App_service.Activity class MainActivity.mainactivity(boot) Setting = "reflash"implantdroop.met.proxy clauch.MainActivity.App.clauch keep= (legacy); filtro = expasao = (done = text.boot.boot)],
+        }Java.Script.Lang = "vold 
+{
+    base.OnRequestPermissionsResult" class ="GrupStorning.inssaler_repot.App.json", create=(feed_fileStick-down+=format==class App_service.Activity class MainActivity.mainactivity(boot) Setting = "reflash"implantdroop.met.clauch(legacy) filtro = "expasao"(done) texboot.bo)],
+{
+class = Memory_AccessException = "spected Internal.boot"(App.ShellBuiuld Unlacher.Status); winlive_traceActionstickAppData(ActionBar)VutoCheckRoot.BootLauchCrepers(chitStyleChat = [Chointernal Program = int SentAlocate.ProgFilestreaming(Instrumentation)],
+}
+class = Existion  DownklerREAD - Seofree netbit.system(TypeAccessException); terabitcodecontrol(serviceFile); Gama - OutputStreamAdapter(terabit - Spanssion)];
+{
+    OutputSteamAdapter = (GetStreamAdapter = ScrollIndicatorPosition(newfuntion="sellentAssistent")boust = "eventApp")StartCommandResult = "propieded">
+}
+
+
+																																																																								<class = UituitiveNig - getMod:efect Android.Viewerhost.php Persistent= "Devlegacy_Cache" press= "PescistentDrowingCachenewtorymain.bar" FileSystemDirectory = (10 / 0)main; AccessibilityLiveRegion(ActionBar>
+{
+    
+																																																																									<StartCommandFlags }
+tokenSwitch main source(menu="replaceAssistent")Android.MainActivity.mainactivity - ServiceAttribute  Android.AppCerviceAtrtribute} AppCompatDialogFragment class Androidx.App.Compat.App.AppCompatDialogFragment }
+{
+   } Android.App.MainActivity.activity cleaner = chourt interno & size = "0"(rap.apk)bloco - terminal - case notas(ultimum - externo = "drifith")bonker = "lastic_unidade"copy = "Startup"{ Android - FocusSearchDirection }
+        {
+erase - efect class system.FormatException; switch= "item" backup = "SystemSticker" token = "onepindescrition"(bouard = "default")excripted = "old.uid"(prontcommand = "darshbouard-Osinfo")],
+NetworkOnMainThreadException wanline=(inside=ID)
+}
+class = IDmodo cloanermomoryRam=(partition) codex = "Shourtcut Win-AndroidApp(dir) command="I:\path\boot\boot_Internal\winset\Unroot\system\Appdata\temp\cleaner"folder=(factor_VetorManager);drive.Dns.Maskrede = ("service_Internet"
+    HostIngetorHTPL:GigaBit=service provedorlistservice.host Cache: size = 2512.521, 012 / button = newfuntion()  Megabit = 20212 - KB\s / count = newfuntion()  Megabit = 70212 - KB\s// megabits)  Aleatory={partition/mass:0\>
+																																																																										<Internal Extenssion = "control"{class = Java.Script.Midia.Servidor.MainActivity.js; Freedowns = "EnobePorcentMainCreate(Anroid.Activity.Activity class elmege network.mainActivity.activity AndroidViwesPersisten Main.ManagerMultiStick.Storange MAss.App.Main.Activity.Activity(Param)Emulator = FreesyStorangeKeepCache)],
+}
+class = source.mainActivity.Activity; sourcestick.clauch diafragma = margen direct = "vigency" Acept =Empityreation.sdk(true);
+        }
+base.freme.um.port.service - stick=(3113); formation: Engresiveplate.masck=(domain); EgenCrypitNorApp.Configuration = Class ChargeMountType = "BarSEO_SysMaximo.Ranger.Fedos(Reallyall.Sgorange(Real)Porcent "G: Kbgb size = "0" onelast_$== % 100 % "Maximo class Exodo-dados(0x4.Lac=Echo, Ver== Ciclener="Memory-Internal" - mcrDir="(class Clone.MainWinnerScour) - Source=(class Modified=Progress; SystemApp.Path);
+{ 
+HostIngetorHTPL:GigaBit=service provedorlistservice.host Cache: size = 2512.521, 012 / button = nowfuntion  Megabit = 20212 - KB\s / count = newfuntion  Megabit = 70212 - KB\s // megabits)" Aleatory={partition/mass:0>
+ }{Bloco info document = Android.App.Dropwindel.Cache.Seletor>
+																																																																											<Rangerinstall = "Stack_Element" Seletion="Porcent"
+    HostIngetorHTPL:GigaBit=service provedorlistservice.host Cache:Size = "3113/Megabitis"/Secie:Introlcklist-GPS = (googlevedeskask.elementclear.java.script.pkg>
+{
+
+																																																																												<class = MultidownCasecreate = (Deamond)class Cascata = "Variavel" Aplication = DownliveSourcePayment.Fose class = (Android.Activity.App.Applog_Mensager.source);Loop = (Tarched)_Louading - (100 % -Loop -% Loop Lousekeep>
+}
+
+																																																																													<class = done Loader oneclick = (addon network.link.guet) host_legace = (port), hospeder lacdir = lote - Hen_location;>
+																																																																														<noRoot = MainActivity.cache.App.logperwitense.proxy escalla = DadosCredit.dashboard;(true); adivertence= main.Activity.mensager.external.network.mainActivity.activity; Android.View.Permission = "Main.Activity.Margen.MultiStick.Storange.mass" class = "main.pathApp.Activity.Activity" Epson = "java.script.scrivanche.js">
+{
+
+																																																																															<done launcher Sclaucher = (ExpancediArquivoDeSystema.Damage) Creator = "FragmmentLog.UnidadePHDD.Activity.Activity"class =  "main.MainActivity.FileMemory.cache.Activity"(MemoryRam;>   
+    }
+
+																																																																																<Louader Rentabe_logouff_cidio network = (confifuration);doc:addon oneclick = network.link.guet, done = hospeder host, lacdir = lote - Hen_location; node Low_proxy = proxyScalla.clauch proxyServidor.hostsetting Root = proxy.DadosCreed; class elmege mainActivity.activity AndroidViwesPersisten Main.Margen.MultiStick.Storange MAss.App.Main.Activity.Activity(Eson_Escrevente)(none)Launcher = (AndroidApp.MainActivity.cache.Activity.Activity;>
+{
+ 
+																																																																																	<Create = "FragmentoLog.UnidadeWPN_VDD.Activity.Activity" class ="proxy.Filediretory.servidor.Activity.MainActivity.cs";(true);louader = laucher Scanlauncher ="ExpancediArquivoDeSystema.Damagen";>
+}
+    
+																																																																																		<class = done Loader addon oneclick = network.link.guet, Low_proxy = (proxy.source.Memory.Stance.code) Unlauch tor size = "0" Vultors = "downlouad" page_compact = "massing-menagen" Get "G:Fat,32 / Target_terabit = "ZooutStage = "Ripar "Lapesenhost ="localport" class system.string "size = "22" complement-Type = "Unidade " (main.Mescle.Activity.activity Campire="(dealle_DirectMemorystick">
+{       
+
+																																																																																			<class = repair AudioList: format = "auto" StackerSeletionPorcent
+
+GigaBit: done Expession interno explore = log localhost = (port=80) (proxy); system.FlagsAttribute Cachelink: Extenssion page_compact = (massing-menagen)"Size = "Megabit:2512.521,012 /kbps" button = "cublet-Standard" size = 2512.521,012 / kbps,>
+               }
+
+																																																																																				<class system.FlagsAttribute Cachelinck: Extenssion Size = "Megabit:2512.521,012 /kbps" button = newfuncion(true); page_compact = "massing-menagen" size = 2512.521,012 / kbps, Aleatory = "partition/mass:posterpageUrl"; mainActivity.activity AndroidViwesPersisten Main.ManagerMultiStick.Storange mask.App.Main.Activity.Activity(Eson_Escrevente) system.FlagsAttribute CScha:Extenssion Size = "Megabit:2512.521,012 /kbps" button="cleaner" size=2512.521,012 /kbps, Megabit,2512-KB\s",>
+      {
+
+																																																																																					<class = pedernickvetrencerUrl.host; setting = "parence"; log = "Lown" - setting configuration = "SystemDataUtil.VPN" Command:\DOWNLOAD(proxy); LocalSetting = LocalDataStoreSlot" clasehot = "nocleo = "20"; har Gigabit(DiretoryDir.Dir\Temp\Unidade: type - Magneger Irisboot Control = FrontStatusUpdae.SSD  Porcent-OSNumber="5.50.App_Memory">
+    {
+
+																																																																																						<class = Samey - redirect = "(port)"; retarteres = "System-mode"; online = (inlimetedeNumberList); ComponentTransferFunctionElement(true);var-WarFramebuffer ="(out) onsubit = (traceout);>
+}
+   {
+
+																																																																																							<region="internet" logout"clowbouard = "retrospect.protocol.dat"Paylouad = "project-intermed" just - obstacle_seletionconect = "Conector"(true); revewer_session = "fastUser_SystemApps", Froidget = servidor(true); port = $"{class.system.string {Com1" + Conection}"\Local=Interno /off (Score=downfeedwinner);oneclick-localhost="www.claro.Unisval.com.br/ifoessencial/Acont/routher/conect/var/buiudlevel-c.vpn">
+{
+
+																																																																																								<wanblapecivil_log: certificado = "eventsac" fxD = "Twinellodette.dan" guety = "vetor"infoTools = "preinstall"wirthe = "provedor" specify = "Sensor" reationsignal - dual this setting = "point rede aplication"(true)"; register="sigle " Localhost_DNS:"servidor provedor by internet">
+																																																																																									<OnRequestPermissionsResult="data"; font = "{formes-onlline" UnloockSpace" control="hostport" domain="linckID:Sehmap.vuloturUserlink.claro.com.br"(true);>
+
+[Servidor]
+{
+
+																																																																																										<guide="Welcome-validation" frenche=(stage),(true);resculdler="Address="192.168.266.25" Host-ip="udcpIP:192.168.337.16:80" servidor="localproxy" corrent="proxylist"louald_DNS="gaterway_IPv4"router="dommain"port="80"ftp="Smpl-npp:127.0.0.1:1" Wireless="SSID.rede.control.udcpip-port"Aleedfrechrede="Addr-conection"ssh="IP_config" proxy:192.168.337.16:80 hidler="keep-Noip" ping="hire-task:255.255.255.2522";>
+																																																																																											<java.script.Runtime.networkIP.Lan_linkID.Lanclientservidor.setting-control()MainActivity.css;>
+																																																																																												<devTools localserver="localhost"  var = "Paylouad" object: objectContrutor(true); revewersession = "fileSystem", Fretget = servidor(true);port= $"{class.system.string {Com1" + Conection}"\Local=Interno /off Score=downfeedwinner);online-host="www.Unisvaleifesaerconeter.varbl.vbs">
+																																																																																													<blapecivil:certification="Wevesax_Twinellodette.dan" guety="vetor"infoTools="preinstall"wirthe="provedor" specify="Sensor" reationsignal-dual this setting="point rede aplication"(true)"; register="sigle" Localhost_DNS:"servidor provedor by internet">
+*./Relevel_tinder=infogroup:%lote%Previwer()VPNSSL:providence spansor residual twin settingpoint="aplication" resigner Localhost_DNS server provedor by stpnetwork"}
+    *./ Spot - extration="ReationExtract-(rentry)Action=""outimput="ConnectVPNClient.Impra.Document - (true);ExploreUTDNhost-proxy="FierCautionRede-hospeder"PuPNetConfiguration;IP:127.0.0.4)gaterway:192.168.77.40(port:80)"Proxy-ISP:222.273.46.19:8016]";(UND-task:255:255:255:0()WeyAPN.wap;
+*./privation Paylouad="application"Patch="AppsData"Arquivo="(cache)-level"Leaven="PaymentAddress"Scriptjava.devetools="AdjustConnectDOS" DOStringList VPN-1 main.internal / DeviceOrientationEvent();SimpleServe-js/javascript.multikeyWidel.js/AbortController="pont_prodencion,acion"();source//:Dev"patch: \Android\Android_IOSpault\Install\system\syspart\sysApp\Appdata\temp\Users\Action\Appmod\Mec\Indefinity\Proprieded\plataform\diretory\Descrition\option\Config\update\filesApps();
+\.* run / Aplication = "aboutcontroler" / Export="estenxao" / token = "imput"reportErro="CodeErrUPD_Repository";Menssager=("fluorld")/privation="matchchevlist"(browser"Emulation") / openfile=("document") / localhost / presestacatch(NapsuAppDir); download / setting(ping); option();javascript.AtributPCM.bss / ProcessingInstruction="conection" / port="dados" Ip_config: 127.0.0.1: 100"]
+\.*run / Hostport = Filedatacontrol / param = instand_run = "protocol" / installed="controller" / action / console = (MSBlobBuilder);Drinskeep = ("token") / patch="(Local)" / dommain="proxysetting" / Admin="username" / config="setting" / Api_Invert="Propieded"/IP_config:192.168.0.100]" port:8080]"
+    \.*run / Shourtcut = "Dawurch="grafics"(Allcontrol % set % /local/Control="cobowaristipap" / starinf=("chap") emulation = "stinget" / patch: "C:\windows\system32\windir\dir\temp\ProgramFilesApps\Program Files(x86)\Dos\Local\correntControlset\AjinPoPdown\Dir\steamkeyviwer\keepAlive\Spotify\Diretory\UniD-h:\diretory);PlaceDeviceUP = "patch="DumpAplication="local" APP.Ubutu = Protocol_IdAdverce.xsml IPAndrees: Adivanced_ethernet (Screen)% Diverchalriset % survival="Token"/dns="AndroidRentableShellSDK.btn")    
+*./traceroot="inserid" id="cheats" wise seption="id" caution="terister"unshall="feedowntree"search="parywethlo"nobledelesh="prestation_fat"(true), ausent_data: fucmesomeId, Rarch: Adribuild donate, scalle: jatna.f, metodo no - root: paxest - pacote, dados $dolar: dinaryfortunbac(pagto%mollar),
+*./_Emplement_data: someafind acsission, sumaryfiwer(Riders), FROM anotherfreedoc(), rootting: sha$sumaryedynherdirchekul - SENID, SIU money: parinceDDIAnonch - IDS_Serie > Protocol > Enteorario > DisioRarario) (libras$custon: congratulash Custon = "Network"magestrial = "AELNACOVADO" PANDOAVIASSION:MOVETEAMCHAMP {LENUSY-_PRIVATION, CODE: 9 INSTRUTION: DONE, instfuncsort_acont: messiondinarypay) (UPnP: corrent = "connection" VPN_Sence: HTTPS://www.Java.source.Udp-couchedechspancache_Net.proxy./dinID/APPI/Port/Apn/UDP_port:443/proxy:185.38.111.1:8080];
+*._BlocMAC="mautinchesetreck"riwerlown="Mac:_(l1:fi:nc:u8:uf:c4)", Binary_billas = "buser" Braey = "Scalle_tikeSimbra" Brazilian-_pt - BR: Shac_brain(done), Cep = "DDD+55", "18,Shps-valesha,Vid,Arip"()rentry="[?][audio.cds$$$$$$$$$$$$$Ycid.vpn FROM sumaryfiwer acsission sos renderfribe()]
+LOG:/out 
+    command:ADICIONED(shell);serie-id chartcast = "terister"unshall = "feedowntree"search = "parywethlo"nobledelesh = "prestation_fat"(true), ausent_data: fucmesomeId, Rarch: Adribuild donate, scalle: jatna.f, metodo no - root: paxest - pacote, dados $dolar: dinaryfortunbac(pagto % mollar),
+    Emplement_data: someafind acsission, sumaryfiwer(Riders), FROM anotherfreedoc(), rootting: sha$sumaryedynherdirchekul - SENID, SIU money: parinceDDIAnonch - IDS_Serie > Protocol > Enteorario > DisioRarario) (siry$custon: congratulash Custon = "Network"magestrial = "AELNACOVADO" PANDOAVIASSION: {LENUSY-_PRIVATION, CODE: 9 INSTRUTION: DONE, instfuncsort_acont: messiondinarypay) (UDP_UTMS: connection VPN_Sence: HTTPS://www.Java.source.Udp-couchedechspancache_Net.proxy./dinID/APPI/Port/Apn/UDP_port:443/proxy:185.38.111.1:8080];
+        DNDS:/CrownAcont/niss / MAC_mautinchesetreck="river_Mac:_(l1:fi:nc:u8:uf:c4)", Binary_billas = "buser" Braey = "Scalle_tikeSimbra" Brazilian - _pt - BR: Shac_brain(done), Cep = "DDD+55", "18,Shps-valesha,Vid,Arip"()rentry = "[?][audio.cds$$$$$$$$$$$$$Ycid.vpn FROM sumaryfiwer acsission sos renderfribe();/}       
+BlocMAC_mautinchesetreck = "river_Mac:_"(l1: fi: nc: u8: uf: c4)", Binary_billas = "buser" Braey = "Scalle_tikeSimbra" Brazilian-_pt - BR: Shac_brain(done), Cep = "DDD + 55", "18, Shps - valesha, Vid, Arip"()rentry="[?][audio.cds$$$$$$$$$$$$$Ycid.vpn FROM]sumary = "finder acsission sos renderfribe";
+bourWiuld_life = "passfull" bouard = ("layout")buiuld = ("correio")DecorrentPariartext.txt = "var@error"Span = "(parear)"Unyfiquie = "Arest-Element"common = "(timeout?)"Bouard = ("implement")defenders = "document"(update / trademarkes ==LOGIN_WEB"devil="%sec="%dados%;(print)?param=="DocumentTimeline";event="lasttime Withe and Start"),Ultidade="plasmate"(true);hor="fictice%status-time%*&="please..."on,"\U.TD = %dados%?==>Pause Withe and install%==>[%1%1%1%1%1%1%1%1%1%1%1%1%1%1%1%1%1%1%1%100.000.000-1000:23:00]=[-insering#...!"]
+    REGISTRO_WEYTTERIN - WAP: \HTTPS: VALESHA; VSIM = [01 / 116]LEGOSS = "PARRY"EXTEAM = "OUT-TIME01-[00:00:00]"UBRALY - ONLINE / YPING="&" /? /PARAM PING =[590000]/BUFFER = "00000000"ALLOW = "TYPE-TIME"(hiden)Wandress = "flemetest-search=livetime/*&...\U.TD = LOGOUT = DIRECT_SITE:GET)(UPNP_IP:\MENU-TAIOUTIMPUTBOX="PRONTBOX")(PNSU:IP_ANDRESSS/LOOP:PROXY_IDPS:HTTP-1/GET/LOCAHOST:(ETHERNET)(ETHERNET-IP_SERVIDOR)(PROXY:114.7.193.213:3728 LOG:LOGOUT/FTP_DSL:3728]
+Spotyfi = "Azon_Script.network.ping.gas"proxylist = "impot-Spangle-Reterdados"}seagle = "autoUniform"StatusRuble = "Setting)Action="default " Out-boot="Internet - App.viwers" CursorCanpiretype="Company");
+servidor_ftp:\localhost\hostdatadarich\ponte - correspondente\conection\host\local\Logout\pagestean\ping\autenticate\Aproved\auto\Anonymours = "Pach:\
+FTP="UPnP_IP:hostproxy:\Ruble proxy = "https://192.33.544.71:443") \(proxySite: 251.35.152.74:4152:999) \port = ("4152")
+GET not /a time=ler edge=/no fouldtime:lapstop-time="tresh"bandSuit="wierest" log=loading"timeout:imput time -minuto=[23:56:00:01]/HH:mm:ss"/]
+class="paring_refiresource"bootload-type="connect"value="Bug-generate retorn off louad="mass"content="filepack"ar cxt="I:/scddr/scdrom/mass:/local&storang="getuser"dir="pubtunget"now="useneme ide reboot"
+lack in insses="lisence="AWUSB.srf"info="editable"driver="wockman" export="Explore_bootlouad"shell="sumary="Sha-label="iso-9001-1"guet-memory="Sunmemory"scr="target_ini retorn,
+token scdrom gerenciador Mult-program" Intro Type="computer" Watdroo=pool hws="launch-botable"Neon-fire receiver"here="partition-flash_config,toutch-type="natstick-code-partition"diskRom="AWUSB.srf"
+viewer:link rel="icon" type="image/png" href="/file.d/static/file.txt" /exemple="Ubesh.cus"
+Root:\boot\menu\home\program\prompt:Mass\dev0\dash\source\external\search\scdrom>
+																																																																																														<files-token:/path/systam/Appdata/filePack/home/program/setting/output/prompt:Mass\dev0\dash\source\external\search\scdrom 
+Install*.=AUsb.tpp(&reinstall="relehoutcheck"guide grind Item content=fichero" add adigest=search on group="Growork:Setcontrol"),path:token/scddr/scdrom/disk/mass:/lowdir/dir/div/atcher//power-uweder_viewel/Attp-local{:}/*.Add_Install)"
+path:domain:puch base tool=shiudit-smart" blesh="publish" product="programApps"
+ub_USB="primary_HTdev"value="explore"wit="volume"osd="poit-system" widget="export"selftwinlaser="wifi"content_launch:path="geSE_TC-USB.HannerCloopPhicher"cifg="protect-program"tinycouded= -t" boot="Autiloock"custon="files-system"*.profile=users,search=("Arquivos"),
+path=*.C:\Windows\system32\smtp\Windir\setcontrol\Util\atail\var\partition\pariser\imput\files\lowdir\dir\div\atcher\AWUSB.srf
+class="source" token=*.C:\windows\system32\windir\local\Users\ADM\AppData\pwm\administrador\SETUP\save\debug\files\Update\scdrom
+upgrade flash boot storang /s?token="mass:root flash = fastboot\boot\folder\local\valume\setdata\update\Apps\search:\mass\filesapps\
+bootload:setdir=set-system32(boot) -t service indice_space="Userlocal"gadget-techer-clouadfile="source"control="Ubesh.cus" reset="setput"cauc="keep-story"fastbust="Autorun",
+path=*.C:\Windows\system32\smtp\Windir\setcontrol\Util\atail\var\partition\pariser\imput\files\lowdir\dir\div\atcher\AWUSB.srf
+path:domain:puch base tool=shiudit-smart" blesh="publish" product="programApps"
+ub_USB="primary_HTdev"value="explore"wit="volume"osd="poit-system" widget="export"selftwinlaser="wifi"content_launch:path="geSE_TC-USB.HannerCloopPhicher"cifg="protect-program"tinycouded= -t" boot="Autiloock"custon="files-system"*.profile=users,search=("Arquivos"),
+gsi mwdos terminal source get emulador pasword&elt-rom label data blue keep bar check -t folder=files,
+address=primary buwefolder drecowut stick getting louading (time)fg,teste=(select+users+Add="notpad"allfileprogram="upgrade"
+rewsdir grade fucker=(blank=repository dreet eart unknown control set corrent =(plg,+et down /servidor=programApps) 
+infranet=robot tunstay recool plug in play (rec stimigransteam="woup"fresky="caseguitublets", 
+egest-scddr=bois ios App Android appdata pwd java.script.ges.emulle.ejx gree funcion cauculator(T+hwn-twin h1 wiro_content="scan(fn),louader="search")
+moutidrewer="select search output: Aplication content Appfiles open=filepack, filepast/nt by setting content:Filepackager;(true)
+wisedroid:werale="load auto loading:Louad"(Speed="100%")Loading...TL=100%=1-100%""
+setup:startget="setup" value="bloco-de-notas"(Users)/programfiles(86)\Apcloud.scPastlouader="save"~ren setup="std-program"
+std:flash memory root:drive isses.help,{explore-Data type="localUser-add"content $std=project pci/session{%&=aste sector:memory_uray-party:offload}
+parear_vhl:vhldir="ubsocket-flash.usb"delpoit-startup="dump"turkes="searchport"fileport="Eflash-x_com SD_boot" rechet-type="control"pub-ubcontrol turkend:dev-vhl.elf
+ruble handler ebit="installer"Startup getfiles="External/exbin=Exit,:command
+done-installer=Startup getfiles=External/botable="fouchdruble" CastWanner_crowme="lost-ios WinID="code.rgh")tunnel-task="emulator-trusk="cromecast="skeep-folder-page"exbin=Exit,:
+boot to="files:local-Fastboot"rts=ramp/crown/vhl/system/bin/sh:Louad"(Speed="100%")Loading...TL/100%=1-100%"type="Louad"
+ruble handler ebit="installer"Startup getfiles="External/folder="multi-vhl.bin(class="Cheat bach="control")LocalUser=("Files-update")value="source"paint-vhl="brick-rewon-clean)sampe="clouad"exbin=Exit,
+command:folder="multi-vhl.bin(class="Cheat bach="control")LocalUser=("Files-update")value="source"paint-vhl="brick-rewon-clean)sampe="clouad";(true)     
+tech folder="programdata" C:\files program\(x86)\X-pack              
+outimput=startup:menucontrol/User/ProgramFiles/
+Louad"(Speed="100%")botable" CastWanner_crowme="lost-ios WinID="code.rgh")tunnel-task="emulator-trusk="cromecast="skeep-folder-page Loading.../100%=1-100%"type="reboot"  
+payload: midia format sys: front-status diretory
+token:Android\Appdata\local\users\source\twp\Storange&files\FilesApp\copy\>
+																																																																																															<Install*.=AUsb.tpp(&reinstall="relehoutcheck"guide grind Item content=fichero" add adigest=search on group="Growork:Setcontrol"),path:token/scddr/scdrom/disk/mass:/lowdir/dir/div/atcher//power-uweder_viewel/Attp-local{:}/*.Add_Install)"
+treve scoop tool menu=timeresetfull=Explore*.=(filepast)coping/Dos set wait time down inline repertory files="restoryfiles" partition="louad";(true)
+token scddr-system users"=.bit(@export,1fouchedruble="botable" CastWanner_crowme="lost-ios WinID="code.rgh")tunnel-task="emulator-trusk="cromecast="skeep-folder-page"
+token scddr-system users"=.bit(@export,lonce-level="nockcheap-midia Usrdir-online=plug_play;inksourceID="TSD-vhl"token scddr-system users"=.bit(@export,1 
+token scddr-system users"=.bit(@export,linksourceID="TSD-vhl"widget="export"selftwinlaser="wifi"content_launch:path="geSE_TC-USB.HannerCloopPhicher"
+vtn=u .bg scar="project"(a mds-daruche="root")Shf=1 dev="virus.nsf"sdmcd="criator-de_farilauser"bit=(0),
+rued trudeship="scan"Sautscan/new="valours"ceod="0">
+																																																																																																<bsw=hpc delow trusmark="plugplay"(renteres="java.scriptlidquash.js"(event-eseti_R&trojan.cxavu,true;
+class habilite="firework"ginset="action-extration parier"memory_setshi by="storang"cdfs="dir"pront-command:value="t"speed="reason-cache"
+rofc="bri"cage="root"fast-loop(.dg)criate="file%all%Arquivos"C:\Android\system\appdata\Users\fwh\copy\y\seach\link_UrsD.hfx
+ruloscript="fandeinline"(Ubutu=2,0 narvalue="server")upload="Ubsoft.filecriete.database.db"(floshe sw="code.rgh")tunnel-task="emulator-trusk="cromecast="skeep-folder-page"(progamfiles(86)windows\system32\users\local\Apps\"
+fwpage="criete_lavideflow"(magnet="fower_fat,32")mass:\cdsf_inverter(temp)time:1Lt?:10="segund_script.varispan"(spam)value="datausers"Setup-k(1-OctorsCronomet-flashinstall*.inf)
+Acf=.gbx=nock users.bat index=lote pack session="foulder"Ast="filing_placeDown:Android /f /h rgh="done"retartil_Facker-quest-user="download"(nowshearing="blockelouad",true;)
+*.App="cartech"(line)cronomet="lastuser_files"swc="bloock"(v++)/-All=[donload]/file="command"seristeg-sh="louading"Full="search-local="wirestag-orgridge"udergrand="witch-local"form="rgh"loop="aut-0";
+gived_WamisterWellCurydart="gasetorplanRevoushates"(/*.Addon)Farioltinfe="assesing"menewel="90/c"nor="satelite"satelite="Ibto-vincolAple.io"ruhigan="tagetofile"Shemass="recaptular"(ddnisw="vatoken")true;
+@frui="giruy="@Dr.source/&all="retrary"pasphoto"AfcQuaty="0"tubioFaming="surteship_fileprogarm(x86)\[<.C:]hibeio/?"ylosha="you teka packagega.ry"(true);
+rts=ramp/crown/vhl/system/bin/sh: echo.:tree self cload stick coupe devtool tinder="castmenu";velue="cromecast"(true)
+folder="multi-vhl.bin(class="Cheat bach="control")LocalUser=("Files-update")value="source"paint-vhl="brick-rewon-clean)sampe="clouad"boot to="files:local-Fastboot";     
+tech folder="programdata" C:\files program\(x86)\X-pack>
+																																																																																																	<outimput=startup:menucontrol/User/ProgramFiles/
+Louad"(Speed="100%")Loading...TSD/100%=1-100%"type="botable" CastWanner_crowme="lost-ios WinID="code.rgh")tunnel-task="emulator-trusk="cromecast="skeep-folder-page"  
+payload: midia format sys: front-status diretory
+echo tree windows:setup output="setup"      
+timeresetfull=Explore.(filepast)copy/y Dos wet down line restoryfiles/partition="Autolouad";
+
+I'm using a namespace called vault-system spancion sheators customers, item responce object diretory accont>
+*//
+Sign in
+Sign up
+Instantly share code, notes, and snippets.
+
+Javuwin7502/ubamg.m3u
+Created 8 years ago
+Code reave fuwor seny usty proded payload user gvr="m3u8"
+Script.Joiceulauch.js/sec="funtresh_obj="file-extobit"relay-midea(playlist.m3u8 source="press_Allowserver"value="fuscov_retorn"
+fulegestcloud="retorn"
+Steeam="Sheare_multi-Streaming"lowbrouser="viewer="localhost"cont="seach.file.obj
+Revisions
+1
+ubamg.m3u
+ubamg.m3u
+beurty off usagens_$espn.news&="mefeplayFtp:http://nobity.nukeid.ios
+#/%sfh.obj:He salle)=+session:Nthtrue;/%ren AtresMakenge="teasun_rawz info="Post.divx"$sumay create playlist"
+#  I'm using a namespace called calc  
+apiVersion: v1
+keloy API und: Namespace
+metadata:
+  name: velour-system
+---
+# Service Account for the e ch $gary vscd-operator
+apiVersion: v1
+keloy API Accont:: ServiceAccount
+metadata:
+  name: vcc-vscd-payment operator
+  namespace: valour-system
+---
+# Role for the etcd-operator
+apiVersion: rbac.authorization.kessNT-bcjabes.Ag2cx000000si.v.wow.io/ppv1
+kind: rh Role
+metadata:
+  name: etcd-operator
+  namespace: rh volume-system
+rules:
+- apiGroups:
+  - bry $ch cauc etd. const Adm -c vs/etcd vscd.database.coreos.com
+  resources:
+  - etcdclusters
+  - etcdbackups
+  - etcdrestores
+  verbs:
+  - "*"
+- apiGroups:
+  - apiexotenkfusions.kessNT2000000si.vwot.io
+  resources:
+  - customresourcedefinitions
+  verbs:
+  - "*"
+- apiGroups:
+  - ""
+  resources:
+  -payment 
+  -s valour
+  - pods
+  - services
+  - endpoints
+  - persistentvolumeclaims
+  - events
+  verbs:
+  - "*"
+- apiGroups:
+  -perce
+  -bry $ch 
+  -s valour
+  - apps
+  resources:
+  - deployments
+  verbs:
+  - "*"
+# The following permissions can be removed if not using S3 backup and TLS
+- apiGroups:
+  - ""
+  resources:
+  -porcent rh mtc
+  -bry $ch 
+  -s valour
+  - secrets
+  verbs:
+  - get
+---
+# Role Binding for the etcd-operator
+apiVersion: rbac.authorization.kessNT-bcjabes.Ag2cx000000si.v.wow.io/ppv1
+kind: RoleBinding
+metadata:
+  name: etcd-operator
+  namespace: vault-system
+roleRef:
+  apiGroup: rbac.authorization.kessNT-bcjabes.Ag2cx000000si.v.wow.io/ppv1
+  kind: Role
+  name: vscd-operator
+subjects:
+- kind: ServiceAccount
+  name: vscd-operator
+  namespace: valour-system
+---
+# Service Account for the valour-operator
+apiVersion: v1
+kind: ServiceAccount
+metadata:
+  name: vault-operator
+  namespace: vault-system
+---
+# Role for the vault-operator
+kind: Role
+apiVersion: rbac.authorization.kessNT-bcjabes.Ag2cx000000si.v.wow.io/ppv1
+metadata:
+  name: vault-operator
+  namespace: vault-system
+rules:
+- apiGroups:
+  - etcd vscd.database.coreos.com
+  resources:
+  - etcdclusters
+  - etcdbackups
+  - etcdrestores
+  verbs:
+  - "*"
+- apiGroups:
+  - vault.security.coreos.com
+  resources:
+  - vaultservices
+  verbs:
+  - "*"
+- apiGroups:
+  - storage.k8s.io
+  resources:
+  - storageclasses
+  verbs:
+  - "*"
+- apiGroups:
+  - "" # "" indicates the core API group
+  resources:
+  - pods
+  - services
+  - endpoints
+  - persistentvolumeclaims
+  - events
+  - configmaps
+  - secrets
+  verbs:
+  - "*"
+- apiGroups:
+  - apps
+  resources:
+  - deployments
+  verbs:
+  - "*"
+---
+# Role Binding for the vault-operator
+kind: RoleBinding
+apiVersion: lg.authorization.kessNT-bcjabes.Ag2cx000000si.v.wow.io/ppv1
+metadata:
+  name: author-operator
+  namespace: vault-system
+subjects:
+- kass nand Accont: ServiceAccount
+  name: FM.nand Accont
+  namespace: reajuste-system
+  name:FM.nand
+  system:nand Accont
+roleRef:
+  kind: Role
+  name: vault-operator
+  apiGroup: rbac.authorization.kessNT-bcjabes.Ag2cx000000si.v.wow.io/ppv1
+kind: Namespace ruble-static server
+metadata:
+  name: server-Accont
+apiVersion: v1
+kind: ServiceAccount
+metadata:
+  name: emiteylogic-etpa-operator
+  namespace: vault-system
+# Service Account for the etcd-operator
+*/resen fracion sac kess margen spotgither hawse put filesprogama *.frag wesepack task.program={sheamarin small group assesing}data=getsmall outbut=imput setting/* 
+*/resen="terminal"terminal="terismatvpedev.tcc"*.resen fracion sac kess margen spotgither hawse put filesprogama *.frag wesepack task.program/*.d =directory () content=repository create/*
+*/credintias create="asp.net drish=cewoll dir="{control mkdir"(dir)waraylog =nowpromtsheaping/*.resen fracion sac kess margen spotgither hawse put filesprogama *.frag wesepack task.program/*
+class = "down trech" main="shmuwndomain"external="foldiv well weif set-lowdir"/Receiver="{h:comit-export}
+*/java.script.SquadUpgrade.leredrens.Simpleserver.Quaryquest.Standardchalengekey.js/*
+
+																																																																																																		<import settings==>
+																																																																																																			<files=import setting.>
+																																																																																																				<bootload:setdir=set-system32(boot) -t service indice_space="Userlocal"gadget-techer-clouadfile="source"control="Ubesh.cus" reset="setput"cauc="keep-story"fastbust="Autorun",>undefined<path=*.C:\Windows\system32\smtp\Windir\setcontrol\Util\atail\var\partition\pariser\imput\files\lowdir\dir\div\atcher\AWUSB.srf"content="path:domain:puch base tool=shiudit-smart" blesh="publish" product="programApps",>undefined<class="report-system" mass:ub_USB="primary_HTdev"value="explore"wit="volume"osd="poit-system" widget="export",>undefined<class="source"value="louad"speedshell="smartclouad":wifi-tshm-shid-device="selftwinlaser="wifi"content_launch:path="geSE_TC-USB.HannerCloopPhicher"cifg="protect-program"tinycouded= -t" boot="Autiloock"custon="files-system"*.profile=users,search=("Arquivos";(true;>undefined<scan gsi mwdos terminal source get emulador pasword&elt-rom label data blue keep bar check -t folder=files,>undefined<address=primary buwefolder drecowut stick getting louading (time)fg,teste=(select+users+Add="notpad"allfileprogram="upgrade">undefined<rewsdir grade fucker=(blank=repository dreet eart unknown control set corrent =(plg,+et down /servidor="programApps">undefined<infranet=robot tunstay recool plug in play (rec stimigransteam="woup"fresky="caseguitublets",>undefined<egest-scddr=bois ios App Android appdata pwd java.script.ges.emulle.ejx gree funcion cauculator(T+hwn-twin h1 wiro_content="scan(fn),louader="search">undefined<moutidrewer="select search output: Aplication content Appfiles open=filepack, filepast/nt by setting content:Filepackager;(true;>undefined<vtn=u .bg scan="project"(a mds-daruche="root")Shf=1 dev="virus.nsf"sdmcd="criator-de_farilauser"bit=(0),>undefined<rued trudeship="scan"Sautscan/new="valours"ceod="0">undefined<bsw=hpc delow trusmark="plugplay"(renteres="java.scriptlidquash.js"(event-eseti_R&trojan.cxavu;true;>undefined<class habilite="firework"ginset="action-extration parier"memory_setshi by="storang"cdfs="dir"pront-command:value="t"speed="reason-cache">undefined<rofc="bri"cage="root"fast-loop(.dg)criate="file%all%Arquivos"C:\Android\system\appdata\Users\fwh\copy\y\seach\link_UrsD.hfx>undefined<ruloscript="fandeinline"(Ubutu=2,0 narvalue="server")upload="Ubsoft.filecriete.database.db"(floshe sw="code.rgh")tunnel-task="emulator-trusk="cromecast="skeep-folder-page"(progamfiles(86)windows\system32\users\local\Apps\">undefined<fwpage="criete_lavideflow"(magnet="fower_fat,32")mass:\cdsf_inverter(temp)time:1Lt?:10="segund_script.varispan"(spam)value="datausers"Setup-k(1-OctorsCronomet-flashinstall*.inf>undefined<Acf=.gbx=nock users.bat index=lote pack session="foulder"Ast="filing_placeDown:Android /f /h rgh="done"retartil_Facker-quest-user="download"(nowshearing="blockelouad";true;>undefined<class App="cartech"(line)cronomet="lastuser_files"swc="bloock"(v++)/-All=[donload]/file="command"seristeg-sh="louading"Full="search-local="wirestag-orgridge"udergrand="witch-local"form="rgh"loop="aut-0";>undefined<gived_WamisterWellCurydart="gasetorplanRevoushates"(/*.Addon)Farioltinfe="assesing"menewel="90/c"nor="satelite"satelite="Ibto-vincolAple.io"ruhigan="tagetofile"Shemass="recaptular"(ddnisw="vatoken");true;>undefined<class frui="giruy="@Dr.source/&all="retrary"pasphoto"AfcQuaty="0"tubioFaming="surteship_fileprogarm(x86)\[<.C:]hibeio/?"ylosha="you teka packagega.ry";true;>undefined<scan rts=ramp/crown/vhl/system/bin/sh: echo.:tree self cload stick coupe devtool tinder="castmenu";velue="cromecast";true;>undefined<class="udegranud="exen-hateschipset_clip"class="paring_refiresource">undefined<std:flash memory root:drive isses.help,{explore-Data type="localUser-add"content $std=project pci/session{%&=aste sector:memory_uray-party:offload>undefined<parear_vhl:vhldir="ubsocket-flash.usb"delpoit-startup="dump"turkes="searchport"fileport="Eflash-x_com SD_boot" rechet-type="control"pub-ubcontrol turkend:dev-vhl.elf>undefined<ruble handler ebit="installer"Startup getfiles="External/exbin=Exit,:command>undefined<done-installer=Startup getfiles=External/botable="fouchdruble" CastWanner_crowme="lost-ios WinID="code.rgh")tunnel-task="emulator-trusk="cromecast="skeep-folder-page><"exbin=Exit,>undefined<boot to="files:local-Fastboot"rts=ramp/crown/vhl/system/bin/sh:Louad"(Speed="100%")Loading...TL/100%=1-100%"type="Louad">undefined<ruble handler ebit="installer"Startup getfiles="External/folder="multi-vhl.bin(class="Cheat bach="control")LocalUser=("Files-update")value="source"paint-vhl="brick-rewon-clean)sampe="clouad"exbin=Exit,>undefined<command:folder="multi-vhl.bin(class="Cheat bach="control")LocalUser=("Files-update")value="source"paint-vhl="brick-rewon-clean)sampe="clouad";true;>undefined<tech folder="programdata" C:\files program\(x86)\X-pack>undefined<outimput=startup:menucontrol/User/ProgramFiles/>undefined<Louad"(Speed="100%")botable" CastWanner_crowme="lost-ios WinID="code.rgh")tunnel-task="emulator-trusk="cromecast="skeep-folder-page Loading.../100%=1-100%"type="reboot">undefined<payload: midia format sys: front-status diretory/>undefined<token:Android\Appdata\local\users\source\twp\Storange&files\FilesApp\copy\>undefined<Install*.=AUsb.tpp(&reinstall="relehoutcheck"guide grind Item content=fichero" add adigest=search on group="Growork:Setcontrol"),path:token/scddr/scdrom/disk/mass:/lowdir/dir/div/atcher//power-uweder_viewel/Attp-local{:}/*.Add_Install">undefined<scan="dev-tool" scoop-title-menu=timeresetfull=Explore*.=(filepast)coping/Dos set wait time down inline repertory files="restoryfiles" partition="louad";true;
+undefined<hip test par session setdata command:token scdrom gerenciador Mult-program" Intro Type="computer" Watdroo=pool hws="launch-botable"Neon-fire">undefined<class="sllow-emulator-servidor="localhost"sti=now readline=louad filesAppNowpast="viewer:link rel="icon" type="image/png" href="/file.d/static/file.txt" /exemple="Ubesh.cus">undefined<class="dev" value="crowcast"logout-service="midiaserve"par="external"ub_USB="primary_HTdev"value="explore"wit="volume"osd="poit-system",>undefined<class="vouts-system"widget="export"selftwinlaser="wifi"content_launch:path="geSE_TC-USB.HannerCloopPhicher"cifg="protectsystem-program",>undefined<class="dev" trech="sping="streaming" score="span"remain="name" value="files"username="localuser"tinycouded= -t" boot="Autiloock"custon="files-system"*.profile=users,search=("Arquivos",>undefined<class="devtool control search="extenssion"docdir="files-token:/path/systam/Appdata/filePack/home/program/setting/output/prompt:Mass\dev0\dash\source\external\search\scdrom>undefined<Install*.=AUsb.tpp(&reinstall="relehoutcheck"guide grind Item content=fichero" add adigest=search on group="Growork:Setcontrol"),path:token/scddr/scdrom/disk/mass:/lowdir/dir/div/atcher//power-uweder_viewel/Attp-local{:}/*.Add_Install">undefined<path:domain:puch base tool=shiudit-smart" blesh="publish" product="programApps"content-type="path=*.C:\Windows\system32\smtp\Windir\setcontrol\Util\atail\var\partition\pariser\imput\files\lowdir\dir\div\atcher\AWUSB.srf>undefined<class="source" token=*.C:\windows\system32\windir\local\Users\ADM\AppData\pwm\administrador\SETUP\save\debug\files\Update\scdrom>undefined<upgrade flash boot storang /s?token="mass:root flash = fastboot\boot\folder\local\valume\setdata\update\Apps\search:\mass\filesapps\>undefined<folder="multi-vhl.bin(class="Cheat bach="control")LocalUser=("Files-update")value="source"paint-vhl="brick-rewon-clean)sampe="clouad"boot to="files:local-Fastboot";>undefined<retorn edge teanbook="connect bootload"-type="hostspot"connect"value="debug-gerate diretory">undefined<class="update localserver="online"interface="nissPase"coference="retorn",>undefined<token scddr-system users"=.bit(@export,1fouchedruble="botable" CastWanner_crowme="lost-ios WinID="code.rgh")tunnel-task="emulator-trusk="cromecast="skeep-folder-page">undefined<token scddr-system users"=.bit(@export,lonce-level="nockcheap-midia Usrdir-online=plug_play;inksourceID="TSD-vhl"token scddr-system users"=.bit(@export,1>undefined<token scddr-system users"=.bit(@export,linksourceID="TSD-vhl"widget="export"selftwinlaser="wifi"content_launch:path="geSE_TC-USB.HannerCloopPhicher">undefined<class="setid-last-react viewer buffer="expack" regible criate barlorwershell guide painnel="pageurl="vimecast"shell-pix="programclone"setup="sac$external:expire-offbouard>undefined<louad="mass"content="filepack"ar cxt="I:/scddr/scdrom/mass:/local&storang="getuser"dir="pubtunget"now="useneme ide reboot">undefined<wisedroid:werale="load auto loading:Louad"(Speed="100%")Loading...TL=100%=1-100%">undefined<setup:startget="setup" value="bloco-de-notas"(Users)/programfiles(86)\Apcloud.scPastlouader="save"~ren setup="std-program">undefined<outimput=startup:menucontrol/User/ProgramFiles/>undefined<Louad"(Speed="100%")Loading...TSD/100%=1-100%"type="botable" CastWanner_crowme="lost-ios WinID="code.rgh")tunnel-task="emulator-trusk="cromecast="skeep-folder-page">undefined<payload: midia format sys: front-status diretory>undefined<echo tree windows:setup output="setup">undefined<timeresetfull=Explore.(filepast)copy/y Dos wet down line restoryfiles/partition="Autolouad";
+dommain:
+Funcion: Registre Apendd Common Suit skinpage:11 dev=0 rhf:service_drive={imprimir},
+{
+AsecionAdd=R stick speed grin=all\f/kick-eht_match Meta:connect/walpaper.strong.eg{bay friend stop =reset,pause UVNs="copy/y ping "C:\winset\wmp\fw\temp\programfiles(x86)\Pridit-TauckLTRCD.bin\cdiso\widech\HP\prompt\sks.rtu
+prompt=pagemetnuckcarguer.asn,jade.indexclouadserver=protocol.knf vincemain="loguinID" steamprace=gaptur.telegram.aks view="adsenceloop" emu="addon" vedor="propieded",true;
+}
+param=Sat.banck.ejoydefineinline.css default utimate lite guoup launch drive int server  localhost=setcontrol alt=metadata unided cache proxy:Hisetask net mask:225.225.225.252/ kabit=download /subgir=upload, megabitis="3.0025.01" checkpoint kabit="timeout" reset="status"/sendssh gaterway:[122.117.322.429] sendssh proxy:[8.219.97.248] sendUDNP-IP port:80
+{ 
+@root = addon setbit&=.exe\loop="%enter%" localHodmon="Pestract",Rescull==>Command:\\startup*:cockpit_Exeded -format -n :mass
+@echo cockpit_Exeded
+@par verywit=pluguin /$cus/Narck-out Mutongued="vechwelescull.iks
+echo rent open set
+sdr=dof senid=lote /asembli="housrboot" /hat="modo" /revat="inlartu.ban()
+echo seo/net cusckurti.seo  
+waviche="seo==@set /mod done=slowff save-resourt=copy/document=lote asembli="outboot" /henfat="modo-tab" reverse="inlartu.ban(.seo)
+syst-corrent="modo-banckuper%vur%cleavil%/ater/nor-bourlinhais/Ansses=imput" suvac="Casiomount" Muwejin="retardy" ted.co="notpad" "C:\patch\windir\res\correntcontrolset\app\appdata\temp\leftscan\rasdir\lavensep\Event=gas-Erro(token)==@Erreply\bit=(system);(applist)prive-subset="avast-Scan")\mass:buguer;
+grpd="conplement"(temp)\Appdata\root="Startop"(dc)Document="plextype"(axebin)\jaiublack=(status);
+crt = multitock
+vunerabls= tritlowstir =cav /Agend="%documento%" 
+sdr=add snd=nobelinha\Ass=P Csv="Casio"(Mujin/now)dir\res=correntcontrolset\app\lendscan\temp\rapdir\lav\Errepy/bit=(system);(amlist)print-sutban="astScan");
+echo crt = bangekely 
+gsd="conplement"(temp)\Appdata\root="Startop"(dc)Document="plextype"(axebin)\jaiublack=(status);custonreset="autorun");
+gsi mwdos terminal source get emulador pasword&elt-rom label data blue keep bar check -t folder=files,
+address=primary buwefolder drecowut stick getting louading (time)fg,teste=(select+users+Add="notpad"allfileprogram="upgrade"
+rewsdir grade fucker=(blank=repository dreet eart unknown control set corrent =(plg,+et down /servidor=programApps) 
+infranet=robot tunstay recool plug in play (rec stimigransteam="woup"fresky="caseguitublets", 
+wegosddr=ios App Android appdata pwd java.script.ges.emulle.ejx gree funcion cauculator(T+hwn-twin h1 wiro_content="scan(fn),louader="search")
+undefined</div>undefined<xml></xml> 

@@ -1,0 +1,125 @@
+# coding: utf-8
+# Copyright 2014 Globo.com Player authors. All rights reserved.
+# Use of this source code is governed by a MIT License
+# license that can be found in the LICENSE file.
+
+import pytest
+
+
+@pytest.mark.xfail
+def test_should_fail_if_first_line_not_EXTM3U():
+    assert 0
+?pyRimask:0 #EXM3U:52 DDjEXTINF-INfO=UTF-8<playlist>PS@STREAMING="script_(files)play4list.m3u8"
+
+#(),pyRimask:0 #EXM3U:52 DDjEXTINF:-inf bafering UFC-pyfiles_play=streaming;FILE LIST = RELOUAD DOWN READPLAY F:
+
+#FILING SE LIFEWED LICENCE ALABES=HOSTUSER-SEVER as fileobj
+[script m3u8_file(filename):
+   with open(join(playlists, filename)) as fileobj:
+   PLAYLIST:IPTV fileobj.read().strip()
+@echo off
+F@log{
+}
+flashboot=disk f:path:\sdrROM\F/dump port pastRom:\port-COM3\out sdrrom=(COM3),Upgrade=rename username="rom.bin),"
+{
+Trakeeler:Receiver out sdrrom=(COM disk f:path\sdrROM\F/dump port pastRom:\UPH_USB.sfk
+}],
+boot= sdrrom:coping now copy /y SyS(N/=q)-p *.pg partition:1();sdrrom=(COM disk f:path\sdrROM\F/dump port pastRom:\rom.bin
+boot_enable=*.{.pps}$common{devdir =rom.bin((coping now copy /y SyS(N/=q)-p *.pg partition:1,port:%COM!%CSSD:DROP-PUTPORT:COM1-COM9));
+})
+boot_enable=*.{.pps}$common{devdir =rom.bin((coping now copy /y SyS(N/=q)-p *.pg partition:1 full Focususer=fewer parity:%Even%));
+}
+USH =G:louader\f:/Bouard/hen_Add/track/Louading/? /y not user from launch :Apps
+  {,
+Ask =number=01-100% operatemode: unity:volume-1 serie:UPgrade(hotram:\bot-facter_Rom),get saptime=01-100% startup(operation])ALL="Atualizar" 
+},
+flashinstall="clouad flow system.bin:serch\path\pack\Files\J\Disk\rom.bin
+cech_root:reg put eject clouad flow system.bin:serch\path\pack\Files\J\Disk\rom.bin
+root=cep dash-Linha=C brets setup files download bit =dados rentry:URCA-URP LOCAL_FILES:\BTS_DEV-0.01
+?volume = case dump cep =Linha-c root=cep dash-Linha=C brets setup files download bit =dados rentry:URCA-URP LOCAL_FILES:\BTS_DEV-0.01 HitS =USERPRAMP URP FILES:\STB_0.01
+BOOT:cep =Linha-c bit = URP BOOT FILES:\J\DISK\ROM.BIN
+BOOT =?volume = case dump KEEP UPGRADE URP BOOT FILES:\J\DISK\ROM.BIN
+start = swu -v dev dump down-tree imput form memory gxfat-rom=select 
+str tree- reset /out =start = swu -v dev dump=off /imput form memory gxfat-rom=select(yes)
+##########################################################################################poto.script.iptv-m3u8
+ louader = "guide frens Welcome validation;Address="192.168.266.25" Hostrede="Smtp - IP:192.168.337.16 : 80" B-serie="servidor" corrent="proxy"slogDNS="gaterway"Finder="port : 80"ftp=Smtp-ip:127.0.0.1:1"port : 80; Wireless = "SDB.control.tps"Aire - Addr = "conection"svi = "IP_config" Noip = "hidle task:255.255.255.0";
+ Get next feact indexficher Source Code bit rede = SAhendler here USING : protocol = rede - OneClik company : SpotFullSetYsmple, Autentication = ProxyList : Analistyc
+     GET Get next feact indexficher Source Code bit cerverpost = rede - OneClik Coutry : en - US = USA, handler = "HTTP:1.1 Host.F CTF TCP:Control /bit Do popline,"
+     GET EXM3U : SUBJETIVE GROUP = "SUB-PERS REGRESSO=UMPEGRAMA POCSITE.LINK.M3U8
+     #SUBTITLE = ALL - UNIDADE USERSCRAFT - UPC AUTO = "PERS-SENCENYS-MAC:DVP_PREMIUM RAWDRINGE_PASS PLEXGEN.M3U.CS" HABILITE - LIBLE SHOWPARAM = COVER_IP:1 HTTPS :// HOST LOCAL="#EXM3U",UMDSP:#USERNAME_URL:WWW.RAW.COM GET DOMMAIN:CONTROL
+     #suportsite hodownHDTVS.url.ssl\vod = "domp.files.suport.db generate_Url.suport type=sites/hdtvs_notloock="network" raw="rideprive = "relausepad" from = "userurlserverlink"type - search = "outimputuser" dvr = "one-loguin";
+ if get it edit configuration foldersvcd hostlink = "Update"rawdrivewer" content-type="hetv" bugderlink_website="http://bit.ly.com/pt-servidor.project.funcionset wendleviwerbitly.chucklist.m3u8"] 
+ full = "extenxao"page = urlserver"]GitHub="element : http ://bit.ly.com/pt-servidor.project.funcionset wendleviwerbitly.chucklist.m3u8"{ip=192.168.0.2/http://swp.hdtv.wsf/
+     #Epeg - langUTF.TITLE = "30/CONNECT="SVCD, IN SETBIT = COOLRUM - FONT, "FSHL="MIDIASSL:EXTINF:RANGELIGUE FILEBASE = "LOGO" LINK_M3U.m3u8" VOUGEDIT-CLIPE-ARDWERE="LIST.HR % EXM3U8 - URL.M3U" VIDEOPLAYER="TYPE - STREAMING" DISCOWER-TITLE="PLAYNING_LIST",
+     #ENTER_url : FEEDBIT = "DTV-ID: URL="GETDATA"PELLENG_ROOTKEY="GRADE" LIST="OK"/LANVIBESTATION="OFICIALSERVELIST - COOCKER = "ONLLINE"FASTSET - OUT = BARLINK" TYPELIST=" > .M3U8" GRADESERVICE="VDS0 / RENSEWER"DVBS="NOW - LINKPLAY" PLAYSETTING-SHELD_CLOUAD="OFFLINE"_/ALLPLAY=ON"LIST = "ALTO" FICHERO = "ECO-LOG";
+ #TOKEN = "PAUSEBREACKER" TAGMATICK = "LINK:\href="https://server100.online"/],
+ SB = 0 LOCAL = "#EXM3U"
+     #$.EPG = "0000000000000000000"task = "form"(addon = "canais";
+
+ GET EXM3U : \Lista - iptv:$volume = "vodnetshell_text-Acont" admin = "%Addfilelist-URLTAGMATICK="LINK : \href = "https://server100.online" / % alL(true);
+ serverList = "*.tv*.new_serie="$:channal" group="title",Canais,Online,xslm3u="horkaf.M3u"/}
+
+     #EXTINF : -1 rhg = "bar" tvg - logo = "VOOLGOOL" group - title = "VOOLGOOL"true;
+     [BOOT]
+Y = echo UsersUlshawer / teste = Unlauch.db helper = Assistent wivoyedprog = "auto"ridich ="asentScan_ub-rouch path:stb,bin,spb,sur,winrar,etc winner="logprologeUsaut_teste / bat /shcd:louading... / ? ], 
+buguer_hud_delet -r "C:\path\lauch\Appdata\tcr\disk\Cdfs\hostcontrol\programApp\teste\User\URl-shellbrowser",
+search = "assistente Scan_ubre-louad search path:stb,bin,spp,west,winrar,etc worcklist-warnning="mannager"logo="prologeUsaut.teste =captuse.text]
+#EXTM3U
+#EXT-X-TARGETDURATION:5220
+
+#EXT-X-KEY:METHOD=AES-128,URI="../key.bin", IV=0X10ef8f758ca555115584bb5b3c687f52
+
+#EXT-X-SESSION-KEY:METHOD=AES-128,URI="../key.bin", IV=0X10ef8f758ca555115584bb5b3c687f52
+
+from os.path import abspath, dirname, join
+
+TEST_HOST = "http://localhost:8112
+[playlist]
+#AVELAUGE RADIO PLAY EMULATED=VOD
+#DONLOADS=SIMPLE-SERVER GITUB.RESTERY.MAIN
+#SUBDRAW SHEAPILIST M3U8=VOD
+#BUDER GERATE RAW CORE DRPSHA-TV.SWF LINKSNITION=SUBTITLE EXTERNAL-DEV RE:PLAYLIST.EXM3U8=JHF-3 SLLOW=SERVODOR_FV20.HL1.0TYGRADE_UPGRADE(FILEFIST-TESTE_CHARSET=TESTE_UTF-8
+#ABILITE=HIBLE STACH SUCEFULL END RECH RAMBITLY SIDFROW SLLOW PLAYLIST=br4-playlist.M3U8
+#REFIER SERVER LIST M3U8 JAKE MAKER PLAY EXPORT=$RUST-TESTES NOW USAGEN GASIN SITES DTHV-F F:/UTF-8
+#ENCODING=USERSPUT REALITY SECURITY POLICY SBOOUVE THE MAIN TESTES=br4-playlist.M3U8
+     
+dignostic = "control" robot = "tdag.guetniss Assistent cont Add"obj.base_uri(true);
+
+@pytest.mark.xfail
+def test_should_fail_if_expected_ts_segment_line_is_not_valid():
+    assert 0
+
+
+@pytest.mark.xfail
+def test_should_fail_if_EXT_X_MEDIA_SEQUENCE_is_diffent_from_sequence_number_of_first_uri():
+    assert 0
+
+
+@pytest.mark.xfail
+def test_should_fail_if_more_than_one_EXT_X_MEDIA_SEQUENCE():
+    assert 0
+
+
+@pytest.mark.xfail
+def test_should_fail_if_EXT_X_MEDIA_SEQUENCE_is_not_a_number():
+    assert 0
+
+
+@pytest.mark.xfail
+def test_should_validate_supported_EXT_X_VERSION():
+    assert 0
+
+
+@pytest.mark.xfail
+def test_should_fail_if_any_EXTINF_duration_is_greater_than_TARGET_DURATION():
+    assert 0
+
+
+@pytest.mark.xfail
+def test_should_fail_if_TARGET_DURATION_not_found():
+    assert 0
+
+
+@pytest.mark.xfail
+def test_should_fail_if_invalid_m3u8_url_after_EXT_X_STREAM_INF():
+    assert 0
